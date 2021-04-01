@@ -1,0 +1,4 @@
+redisinsight/*
+redis/*
+mysql/*
+!my.cnf
