@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "538274955427",
+    "project_id": "line-new-graduate",
+    "storage_bucket": "line-new-graduate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538274955427:android:7464a42e1cb9de70b1bf16",
+        "android_client_info": {
+          "package_name": "cyou.dreamer.lineNewGraduate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538274955427-l5vim2n2s2nnjqk327gmscalatvt0o17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDffIVGNL0_SIv1TbI9ZRliQQ-PCd1DNQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538274955427-l5vim2n2s2nnjqk327gmscalatvt0o17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
