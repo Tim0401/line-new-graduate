@@ -6,6 +6,37 @@
 protoc --go_out=. --go-grpc_out=. cat.proto
 ```
 
+## ローカルで導入するツール
+
+### wire
+
+DI  
+https://github.com/google/wire  
+
+```
+go install github.com/google/wire/cmd/wire@latest
+```
+
+### sqlboiler
+
+ORM  
+https://github.com/volatiletech/sqlboiler#download  
+
+```
+go install github.com/volatiletech/sqlboiler/v4@latest
+go install github.com/volatiletech/sqlboiler/v4/drivers/sqlboiler-mysql@latest
+```
+
+### protoc
+
+.protoのコンパイラ  
+https://github.com/protocolbuffers/protobuf/releases  
+
+### evans
+
+gRPCデバッグツール  
+https://github.com/ktr0731/evans  
+
 ## 参考サイト
 
 ### gRPC
